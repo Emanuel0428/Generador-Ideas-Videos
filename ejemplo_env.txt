@@ -1,0 +1,11 @@
+# Archivo de configuración - Copia este contenido a un archivo llamado .env
+
+# API Key de Google Gemini 
+# 
+# PASO 1: Ve a https://aistudio.google.com/app/apikey
+# PASO 2: Inicia sesión con tu cuenta Google
+# PASO 3: Haz clic en "Create API Key"
+# PASO 4: Copia la API key generada
+# PASO 5: Pégala abajo reemplazando "tu_api_key_aqui"
+
+GEMINI_API_KEY=tu_api_key_aqui 
