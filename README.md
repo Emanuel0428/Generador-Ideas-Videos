@@ -1,4 +1,4 @@
-# 🎬 Generador Profesional de Ideas de Videos
+# 🎬 Generador Profesional de Ideas de Videos (en progreso)
 
 ## 🚀 Sistema de IA Avanzado para Creación de Contenido Viral
 
@@ -9,12 +9,14 @@ Un sistema completamente automatizado que genera ideas de videos optimizadas par
 ## ✨ Características Principales
 
 ### 🤖 **Generación Inteligente con IA**
+
 - **Gemini 2.0 Flash** para generación de contenido de alta calidad
 - Respuestas estructuradas en JSON para consistencia
 - Múltiples tipos de contenido por red social
 - Sistema de puntuación automático de calidad
 
 ### 📈 **Análisis de Tendencias en Tiempo Real**
+
 - **Web scraping automático** de múltiples fuentes:
   - Google Trends (US, ES, MX)
   - Tendencias de YouTube
@@ -24,18 +26,21 @@ Un sistema completamente automatizado que genera ideas de videos optimizadas par
 - Cache inteligente de tendencias
 
 ### 🎯 **Optimización por Red Social**
+
 - **TikTok**: Hooks de 3 segundos, contenido viral
 - **YouTube**: Retención y CTR optimizado
 - **Instagram**: Engagement y saves maximizados
 - **YouTube Shorts**: Loops y viralidad instantánea
 
 ### 📊 **Análisis y Métricas Avanzadas**
+
 - Score de predicción de viralidad (70-95)
 - Análisis de factores positivos
 - Recomendaciones de optimización
 - Timing perfecto de publicación
 
 ### 🏢 **Exportación Profesional**
+
 - **4 hojas de Excel** con análisis completo:
   1. **Ideas Principales** - Contenido completo
   2. **Métricas y Análisis** - KPIs y predicciones
@@ -46,38 +51,42 @@ Un sistema completamente automatizado que genera ideas de videos optimizadas par
 
 ## 🎪 Nichos Soportados
 
-| Nicho | Subtemas | Engagement |
-|-------|----------|------------|
-| **Tecnología** | IA, Gadgets, Apps, Gaming, Crypto | Alto |
-| **Lifestyle** | Productividad, Wellness, Organización | Muy Alto |
-| **Educativo** | Ciencia, Historia, Habilidades | Medio-Alto |
-| **Entretenimiento** | Comedy, Reactions, Challenges | Muy Alto |
-| **Fitness** | Workouts, Nutrition, Transformación | Alto |
-| **Cocina** | Recetas, Healthy Food, Técnicas | Muy Alto |
+| Nicho                     | Subtemas                               | Engagement |
+| ------------------------- | -------------------------------------- | ---------- |
+| **Tecnología**     | IA, Gadgets, Apps, Gaming, Crypto      | Alto       |
+| **Lifestyle**       | Productividad, Wellness, Organización | Muy Alto   |
+| **Educativo**       | Ciencia, Historia, Habilidades         | Medio-Alto |
+| **Entretenimiento** | Comedy, Reactions, Challenges          | Muy Alto   |
+| **Fitness**         | Workouts, Nutrition, Transformación   | Alto       |
+| **Cocina**          | Recetas, Healthy Food, Técnicas       | Muy Alto   |
 
 ---
 
 ## 📱 Redes Sociales Optimizadas
 
 ### TikTok
+
 - **Duraciones**: 15s, 30s, 60s, 3min
 - **Hook**: 3 segundos críticos
 - **Audiencia**: 16-24 años
 - **CTR**: 6-10%
 
 ### YouTube
+
 - **Duraciones**: 1-3min, 5-8min, 10-15min, 20-30min
 - **Hook**: 15 segundos
 - **Audiencia**: 25-34 años
 - **CTR**: 4-6%
 
 ### Instagram
+
 - **Duraciones**: 15s, 30s, 60s, 90s
 - **Hook**: 3 segundos
 - **Audiencia**: 25-34 años
 - **CTR**: 5-7%
 
 ### YouTube Shorts
+
 - **Duraciones**: 15s, 30s, 60s
 - **Hook**: 2 segundos
 - **Audiencia**: 16-24 años
@@ -88,24 +97,28 @@ Un sistema completamente automatizado que genera ideas de videos optimizadas par
 ## 🚀 Modos de Generación
 
 ### 1. 🔥 Modo Rápido
+
 - **10 ideas optimizadas** en minutos
 - Score mínimo: 70
 - Redes: TikTok, YouTube Shorts, Instagram
 - Perfecto para: Creadores individuales
 
 ### 2. 📊 Modo Profesional
+
 - **20-50 ideas** con análisis detallado
 - Score mínimo: 75
 - Todas las redes sociales
 - Perfecto para: Agencias y equipos
 
 ### 3. 🎯 Modo Personalizado
+
 - Configuración avanzada
 - Selección de redes y nichos específicos
 - Score personalizable (60-95)
 - Perfecto para: Estrategias específicas
 
 ### 4. 🏢 Modo Empresa
+
 - **100+ ideas** distribuidas
 - Score mínimo: 80
 - Cobertura completa de nichos
@@ -116,31 +129,38 @@ Un sistema completamente automatizado que genera ideas de videos optimizadas par
 ## 🛠️ Instalación
 
 ### 1. Clonar el repositorio
+
 ```bash
 git clone [tu-repositorio]
 cd generador-ideas-videos
 ```
 
 ### 2. Instalar dependencias
+
 ```bash
 pip install -r requirements.txt
 ```
 
 ### 3. Configurar API Key de Gemini
+
 Crear archivo `.env`:
+
 ```env
 GEMINI_API_KEY=tu_api_key_aqui
 ```
+
 ---
 
 ## 🎯 Uso
 
 ### Ejecución básica
+
 ```bash
 python generador_ideas_videos.py
 ```
 
 ### Ejemplo de salida
+
 ```
 🎬 GENERADOR PROFESIONAL DE IDEAS DE VIDEOS
 ==================================================
@@ -203,6 +223,7 @@ python generador_ideas_videos.py
 ## 📊 Estructura de Salida Excel
 
 ### Hoja 1: Ideas Principales
+
 - ID, Título, Red Social, Duración
 - Nicho, Tipo de Contenido
 - Hook Inicial, Temas Principales
@@ -211,6 +232,7 @@ python generador_ideas_videos.py
 - Score de calidad, Fecha de creación
 
 ### Hoja 2: Métricas y Análisis
+
 - Score de viralidad predicho
 - Factores positivos identificados
 - Recomendaciones de optimización
@@ -218,11 +240,13 @@ python generador_ideas_videos.py
 - Elementos visuales sugeridos
 
 ### Hoja 3: Hashtags
+
 - Lista completa de hashtags por idea
 - Organizados por red social
 - Optimizados para alcance máximo
 
 ### Hoja 4: Resumen Ejecutivo
+
 - Estadísticas generales
 - Distribución por red social y nicho
 - Ideas de alta calidad (>80, >90)
@@ -233,18 +257,21 @@ python generador_ideas_videos.py
 ## 🎯 Algoritmos de Optimización
 
 ### TikTok
+
 - **Engagement temprano** crítico
 - **Tiempo de visualización** completo
 - **Shares** como indicador viral
 - **Comentarios** para engagement
 
 ### YouTube
+
 - **CTR del thumbnail** optimizado
 - **Retención de audiencia** alta
 - **Tiempo de visualización** total
 - **Engagement** consistente
 
 ### Instagram
+
 - **Saves** como métrica clave
 - **Shares** en stories
 - **Comentarios** de calidad
@@ -255,24 +282,28 @@ python generador_ideas_videos.py
 ## 🔄 Características Avanzadas
 
 ### 🧠 **Inteligencia Artificial**
+
 - Generación de contenido coherente y viral
 - Análisis automático de tono y estilo
 - Adaptación por audiencia objetivo
 - Predicción de rendimiento
 
 ### 🌐 **Web Scraping Inteligente**
+
 - Múltiples fuentes de tendencias
 - Procesamiento en paralelo
 - Filtrado y limpieza automática
 - Cache para optimización
 
 ### 📈 **Sistema de Puntuación**
+
 - 30 puntos por título viral
 - 25 puntos por hook efectivo
 - 20 puntos por hashtags optimizados
 - 25 puntos por estructura completa
 
 ### 🔍 **Control de Calidad**
+
 - Detección automática de duplicados
 - Filtros de score mínimo
 - Validación de estructura
@@ -283,18 +314,21 @@ python generador_ideas_videos.py
 ## 🛡️ Consideraciones Técnicas
 
 ### Rendimiento
+
 - Procesamiento paralelo para velocidad
 - Cache inteligente de tendencias
 - Optimización de memoria
 - Timeouts configurables
 
 ### Escalabilidad
+
 - Hasta 100 ideas por sesión
 - Múltiples redes simultáneas
 - Nichos ilimitados
 - Exportación optimizada
 
 ### Confiabilidad
+
 - Fallbacks automáticos
 - Manejo robusto de errores
 - Validación de respuestas
@@ -307,21 +341,25 @@ python generador_ideas_videos.py
 ### Errores Comunes
 
 **❌ Error de API Key**
+
 ```
 Solución: Verifica que GEMINI_API_KEY esté en .env
 ```
 
 **❌ Error de Dependencias**
+
 ```
 Solución: pip install -r requirements.txt
 ```
 
 **❌ Error de Web Scraping**
+
 ```
 Solución: Verifica conexión a internet
 ```
 
 ### Contacto
+
 Para soporte técnico o mejoras, contacta al equipo de desarrollo.
 
 ---
@@ -342,4 +380,4 @@ echo "GEMINI_API_KEY=tu_key_aqui" > .env
 python generador_ideas_videos.py
 ```
 
-**🚀 En menos de 5 minutos tendrás ideas de videos optimizadas y listas para implementar!** 
+**🚀 En menos de 5 minutos tendrás ideas de videos optimizadas y listas para implementar!**
